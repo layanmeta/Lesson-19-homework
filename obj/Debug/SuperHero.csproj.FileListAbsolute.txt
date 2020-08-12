@@ -1,0 +1,6 @@
+C:\Users\layan\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.csprojAssemblyReference.cache
+C:\Users\layan\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+C:\Users\layan\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+C:\Users\layan\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\layan\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+C:\Users\layan\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.pdb

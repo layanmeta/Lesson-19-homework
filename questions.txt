@@ -1,0 +1,83 @@
+1. מדוע כדאי להשתמש ב properties?
+
+to let classes expose a way of getting and setting values
+
+?backing field מייצר property מצבים באיזה. 2
+
+when its an automatic property 
+
+3.  .האם ניתן לייצר property עם Getter ללא Setter?
+yes
+
+4.האם אפשר באותו property לייצר רמת נגישות שונה בין ה Getter ל- Setter?
+yes 
+
+5. האם ניתן לייצר property אבסטרקטי?
+yes
+
+6.?interface מ
+interface contains definitions that other classes can take from, like abstract, however classes can take more than 1 interface
+
+7. ? marker interface מהו
+an empty interface 
+
+8.באיזה אות נתחיל שם של Interface?
+I
+9. מה ה modifiers access לפונקציות המוגדרות בתוך ה interface?
+public 
+
+10.האם ניתן לממש פונקציות בתוך interface?
+it can only define 
+11.
+abstract can extend only one abstract class
+interface can do more
+abstract class lets you creat functions that classes can implement 
+interface only lets you define it
+
+12.האם ניתן לייצר property בתוך interface?
+no
+
+13.האם ניתן לייצר שדות מידע בתוך interface? 
+no
+14.האם Interface יכול לרשת מ interface אחר? מה המשמעות של ירושה זו?
+yes
+it means class takes from both interfaces
+15. כיצד מציירים ירושה מ Interface בתוך UML? 
+circle 
+
+17.מה משמעות המילה is?
+used in if -> if(x is y)
+
+18.מה משמעות המילה as?
+something as something else
+
+19. מה קורה כאשר as נכשל?
+
+20. מה המשמעות של המילה null ?מה קורה כאשר ננסה לגשת לשדה בתוך מצביע אשר הוא null?
+null points to nothing, meaning empty or has no value
+it would give us empty 
+
+21. 21 .מה הערך ה default לכל אובייקט בדוט נט?
+null or 0 
+
+22. .מה עושה הפונקציה ()GetType ?באיזה מחלקה היא נמצאת? האם היא תהיה קיימת בכל אובייקט
+בדוט נט? מדוע?
+
+GetType() is used to return 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
